@@ -1,6 +1,6 @@
 name: Andrei Herasimchuk
 favicon: null
-layout_spectrum: 0.91921
+layout_spectrum: 0.50128
 typography_spectrum: 0.64748
 title: Design by Fire
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5625
-  lightness: 0.49639511154964566
-  saturation: 0.951218914007768
-  rhythmicContrast: 0.5908134335186332
+    - '#855e59'
+    - '#020202'
+    - '#fdfdfd'
+    - '#fdc995'
+    - '#fb975a'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
